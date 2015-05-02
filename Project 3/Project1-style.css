@@ -1,0 +1,78 @@
+body {
+	padding: 20px 10px;
+	font-family: 'Open Sans',sans-serif;
+  color: #AE1313;
+	max-width: 2000px;
+	margin: 0 auto; 
+	font-size: 1.4em;
+  background-color: #eaeff2;
+}                 
+
+h1 {
+	text-align: center;
+}
+
+p {
+	margin: 10px 0;
+}
+
+ul {
+	list-style-type: upper-alpha; 
+}
+
+li {
+	font-size: 20px;
+	line-height: 44px; 
+}
+
+.lesson {
+	background-color: #294860;
+	border-radius: 30px;
+	color: white;
+	padding: 10px;
+	margin: 10px auto;
+	text-align: center;
+}
+
+h2 {
+	margin: 10px;
+}
+
+.concept {
+	background-color: #DFEAF1;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+}
+
+.concept-title {
+	font-size: 28px;
+	margin: 8px;
+	text-align: center;
+	color: #294860;
+}
+
+.concept-description {
+	font-weight: lighter;
+	margin: 6px;
+}
+
+.TOC-Title {
+	font-family: 'Open Sans',sans-serif;
+	color : darkred;
+	font-weight: bold;
+	padding-left:  4px;
+	padding-right: 4px;
+  background-color: #C7BED0;
+  border-radius: 80px;
+  max-width: 800px;
+}
+
+.TOC-lesson {
+	font-family: 'Open Sans',sans-serif;
+	color : blue;
+	font-weight: bold;
+	padding-left:  4px;
+	padding-right: 4px;
+}
